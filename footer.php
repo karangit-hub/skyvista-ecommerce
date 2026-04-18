@@ -1,0 +1,1 @@
+<footer>Created by Karan Patel 2024</footer>
